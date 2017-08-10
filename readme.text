@@ -1,4 +1,8 @@
 
 
 branch test
-branch test & dev
+<<<<<<< HEAD
+branch test and dev
+=======
+branch test AND dev
+>>>>>>> feture1
